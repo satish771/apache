@@ -1,0 +1,5 @@
+# yum install httpd
+# yum update httpd -y
+# servcice httpd starts
+# service https status
+
